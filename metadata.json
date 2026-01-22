@@ -1,0 +1,6 @@
+{
+  "name": "Meu Provador Virtual",
+  "description": "Envie uma foto sua e uma roupa para ver como fica em você, com tecnologia Nano Banana.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
